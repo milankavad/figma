@@ -1,0 +1,262 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.body {
+
+    overflow: hidden;
+
+
+}
+
+
+
+.container {
+
+    background-image: url(IMG/food@1p1.png);
+    height: 600px;
+    border: 2px solid;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.btnview {
+    padding: 4px;
+    width: 100px;
+    margin-left: 30px;
+    background-color: orange;
+    font-weight: bold;
+    font-size: 15px;
+
+
+}
+
+.navbar {
+    /* background-color: rgb(111, 107, 107); */
+    position: relative;
+
+}
+
+ul {
+
+    display: flex;
+    margin-left: 800px;
+    list-style: none;
+    margin-top: 30px;
+    font-size: 25px;
+
+
+}
+
+.photo {
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: 40px;
+    bottom: -10px;
+
+}
+
+
+li a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+
+.btnview {
+    padding: 4px;
+    width: 100px;
+    margin-left: 30px;
+    background-color: orange;
+    font-weight: bold;
+    font-size: 15px;
+
+
+}
+
+h2 {
+    position: relative;
+    color: azure;
+    font-weight: bold;
+    margin-top: 100px;
+
+}
+
+.list {
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+
+.pregraf {
+    /* position: absolute; */
+    margin-left: 70px;
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.btnmenu {
+    padding: 10px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    background-color: orange;
+    left: 70px;
+    top: 20px;
+}
+
+.div2 {
+    /* height: 1300px; */
+    width: 1200px;
+    background-color: white;
+    display: block;
+    margin: 0 auto;
+    margin-top: -140px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.our {
+    position: relative;
+    margin: 0 auto;
+    font-weight: bold;
+    top: 10px;
+
+}
+
+.col-md-3 {
+    height: 400px;
+    width: 325px;
+    /* background-color: aqua; */
+    /* border: 1px solid black; */
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px rgb(79, 79, 82);
+
+}
+
+.list11 {
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.list1 {
+    /* margin: 0 auto; */
+    /* display: block; */
+    text-align: center;
+    margin-top: 20px;
+}
+
+.manie {
+    font-size: 20px;
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.btnview {
+    padding: 7px;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+
+
+
+}
+
+.div3 {
+    margin-top: 40px;
+    margin-left: 60px;
+
+
+}
+
+.div4 {
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+.div5 {
+    background-color: aqua;
+    height: 500px;
+}
+
+
+.div7 {
+
+    height: 350px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+
+}
+
+.box2 {
+    color: black;
+    position: relative;
+    top: 30px;
+    margin-left: 100px;
+}
+
+
+.nav22 {
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 120px;
+
+
+}
+
+.quice {
+
+    color: white;
+
+}
+
+.box4 {
+    margin-left: 50px;
+    color: white;
+    margin-top: 120px;
+    margin-left: 80px;
+
+}
+
+.HOUR {
+    color: white;
+}
+
+.timing {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.box5 {
+    
+    color: white;
+    margin-left: 50px;
+    margin-top: 120px;
+
+}
+
